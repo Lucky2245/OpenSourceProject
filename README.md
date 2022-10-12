@@ -1,3 +1,3 @@
 # OpenSourceProject
 You are free to copy of modify the code.
-PLEASE list the changes you made in the changes.txt
+PLEASE list the changes you made in the changes.txt file.
